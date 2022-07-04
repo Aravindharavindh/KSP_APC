@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UDjjD72rIQ6qyElqbgPrUzEGtskmO0+efCOwi+xBNrs2QW7/OvjoNr9Pfn+Fmvmcw+QYTGRORwhU1M3r1fmLjQ==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\NetCore\\KSP\\KSP_APCC\\KSP_APCC\\KSP_APCC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hai\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Hai\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
